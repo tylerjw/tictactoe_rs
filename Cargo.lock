@@ -5,8 +5,7 @@ version = 3
 [[package]]
 name = "array2d"
 version = "0.2.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "224b2db9d3e7dd068c8b07b186076ee668ce38810d0ba12c80dacbcbb7cfc9e8"
+source = "git+https://github.com/tylerjw/array2d?branch=hash#176c8d2bbd2d0953f9de7bf6bd7558ff673101bc"
 
 [[package]]
 name = "either"
